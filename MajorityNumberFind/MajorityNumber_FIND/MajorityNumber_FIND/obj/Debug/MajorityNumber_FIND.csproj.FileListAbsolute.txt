@@ -1,0 +1,7 @@
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\bin\Debug\MajorityNumber_FIND.exe.config
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\bin\Debug\MajorityNumber_FIND.exe
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\bin\Debug\MajorityNumber_FIND.pdb
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\obj\Debug\MajorityNumber_FIND.csprojAssemblyReference.cache
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\obj\Debug\MajorityNumber_FIND.csproj.CoreCompileInputs.cache
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\obj\Debug\MajorityNumber_FIND.exe
+C:\WorkSpace\MajorityNumberFind\MajorityNumber_FIND\MajorityNumber_FIND\obj\Debug\MajorityNumber_FIND.pdb
