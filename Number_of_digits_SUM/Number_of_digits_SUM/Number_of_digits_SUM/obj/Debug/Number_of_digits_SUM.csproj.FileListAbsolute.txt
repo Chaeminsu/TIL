@@ -1,0 +1,7 @@
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\bin\Debug\Number_of_digits_SUM.exe.config
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\bin\Debug\Number_of_digits_SUM.exe
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\bin\Debug\Number_of_digits_SUM.pdb
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\obj\Debug\Number_of_digits_SUM.csprojAssemblyReference.cache
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\obj\Debug\Number_of_digits_SUM.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\obj\Debug\Number_of_digits_SUM.exe
+C:\WorkSpace\Number_of_digits_SUM\Number_of_digits_SUM\Number_of_digits_SUM\obj\Debug\Number_of_digits_SUM.pdb
