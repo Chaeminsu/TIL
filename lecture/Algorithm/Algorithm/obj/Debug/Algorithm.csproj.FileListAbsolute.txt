@@ -1,0 +1,7 @@
+C:\인강\Algoritihm\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\인강\Algoritihm\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\인강\Algoritihm\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
