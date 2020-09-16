@@ -1,0 +1,13 @@
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.exe
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.deps.json
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.runtimeconfig.json
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.runtimeconfig.dev.json
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.dll
+C:\WorkSpace\lecture\Algorithm\Exercize\bin\Debug\netcoreapp3.1\Exercize.pdb
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.csprojAssemblyReference.cache
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.AssemblyInfoInputs.cache
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.AssemblyInfo.cs
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.csproj.CoreCompileInputs.cache
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.dll
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.pdb
+C:\WorkSpace\lecture\Algorithm\Exercize\obj\Debug\netcoreapp3.1\Exercize.genruntimeconfig.cache
