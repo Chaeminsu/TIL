@@ -5,3 +5,10 @@ C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyRefer
 C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
 C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.exe
 C:\인강\Algoritihm\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\WorkSpace\lecture\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\WorkSpace\lecture\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\WorkSpace\lecture\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\WorkSpace\lecture\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\WorkSpace\lecture\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\WorkSpace\lecture\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\WorkSpace\lecture\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
