@@ -1,0 +1,13 @@
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.exe
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.deps.json
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.runtimeconfig.json
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.runtimeconfig.dev.json
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.dll
+C:\WorkSpace\lecture\Algorithm\Exercize2\bin\Debug\netcoreapp3.1\Exercize2.pdb
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.csprojAssemblyReference.cache
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.AssemblyInfoInputs.cache
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.AssemblyInfo.cs
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.csproj.CoreCompileInputs.cache
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.dll
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.pdb
+C:\WorkSpace\lecture\Algorithm\Exercize2\obj\Debug\netcoreapp3.1\Exercize2.genruntimeconfig.cache
