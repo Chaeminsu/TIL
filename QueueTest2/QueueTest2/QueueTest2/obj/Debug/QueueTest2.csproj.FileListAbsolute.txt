@@ -1,0 +1,7 @@
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\obj\Debug\QueueTest2.csprojAssemblyReference.cache
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\obj\Debug\QueueTest2.csproj.CoreCompileInputs.cache
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\bin\Debug\QueueTest2.exe.config
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\bin\Debug\QueueTest2.exe
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\bin\Debug\QueueTest2.pdb
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\obj\Debug\QueueTest2.exe
+C:\WorkSpace\QueueTest2\QueueTest2\QueueTest2\obj\Debug\QueueTest2.pdb
