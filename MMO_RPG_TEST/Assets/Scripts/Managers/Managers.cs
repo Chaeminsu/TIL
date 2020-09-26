@@ -5,7 +5,13 @@ using UnityEngine;
 public class Managers : MonoBehaviour
 {
     static Managers s_instance =  null;
-    public static Managers Instance { get { Init(); return s_instance; }  }
+    static Managers Instance { get { Init(); return s_instance; }  }
+
+    InputManger _input = new InputManger();
+    public static InputManger input { get { return Instance._input; } }
+
+    ResourceManger _resouce = new ResourceManger();
+    public static ResourceManger Resource { get { return Instance._resouce; } }
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +21,7 @@ public class Managers : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        input.OnUpdate();
     }
     static void Init()
     {
