@@ -23,7 +23,7 @@ namespace Programers_Level1_4
             int answer = 0;
 
             if (n <= 1) return 0;
-
+             
             int[] total = new int[n];
             total = total.Select(x => x = 1).ToArray();
 
