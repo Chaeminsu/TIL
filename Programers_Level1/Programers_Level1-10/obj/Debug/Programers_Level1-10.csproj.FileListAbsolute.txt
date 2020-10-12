@@ -1,0 +1,7 @@
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\bin\Debug\Programers_Level1-10.exe.config
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\bin\Debug\Programers_Level1-10.exe
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\bin\Debug\Programers_Level1-10.pdb
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\obj\Debug\Programers_Level1-10.csprojAssemblyReference.cache
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\obj\Debug\Programers_Level1-10.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\obj\Debug\Programers_Level1-10.exe
+C:\WorkSpace\Programers_Level1\Programers_Level1-10\obj\Debug\Programers_Level1-10.pdb
