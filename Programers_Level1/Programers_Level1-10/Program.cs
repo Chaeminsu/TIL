@@ -17,8 +17,9 @@ namespace Programers_Level1_10
             int answer = 0;
             int division;
             int lastValue;
+
             Stack<int> s = new Stack<int>();
-           
+
             while (true)
             {
                 division = n / 3;
