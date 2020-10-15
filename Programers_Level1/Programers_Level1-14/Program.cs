@@ -20,10 +20,11 @@ namespace Programers_Level1_14
             int answer = 0;
             bool[] list = Enumerable.Repeat<bool>(false, n).ToArray();
             list[0] = true;
-            for (int i = 2; i <= n; i++)
+
+            for (int i = 2; i <= Math.Sqrt(n); i++)
             {
                 if (list[i -1] == true) continue;
-                for (int j = i + i; j <= n; j = j + i)
+                for (int j = i + i; j <= Math.Sqrt(n); j = j + i)
                 {
                     list[j - 1] = true;
                 }
