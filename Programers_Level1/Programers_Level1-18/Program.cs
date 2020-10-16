@@ -10,7 +10,7 @@ namespace Programers_Level1_18
     {
         static void Main(string[] args)
         {
-
+            //answer = Enumerable.Range(1, n).Where(x => n % x == 0).Sum();
             Console.WriteLine($"{solution(0)}");
             Console.WriteLine($"{solution(5)}");
 
@@ -18,7 +18,6 @@ namespace Programers_Level1_18
         public static int solution(int n)
         {
             int answer = 0;
-            //answer = Enumerable.Range(1, n).Where(x => n % x == 0).Sum();
             if (n == 0) return answer;
             int[] intLIst = Enumerable.Range(1, n).ToArray();
             for (int i = 1; i < n; i++)
