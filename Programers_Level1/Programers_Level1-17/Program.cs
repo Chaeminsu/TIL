@@ -16,7 +16,6 @@ namespace Programers_Level1_17
         public static string solution(string s, int n)
         {
             string answer = "";
-
             for (int i = 0; i < s.Length; i++)
             {
                 char value = s[i];
@@ -43,12 +42,6 @@ namespace Programers_Level1_17
                 char a = (char)(value + shiftCount);
                 answer += a.ToString();
             }
-            return answer;
-
-
-
-
-
             return answer;
         }
     }
