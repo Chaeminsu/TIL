@@ -1,0 +1,6 @@
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\bin\Debug\Programers_Level1-32.exe.config
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\bin\Debug\Programers_Level1-32.exe
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\bin\Debug\Programers_Level1-32.pdb
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\obj\Debug\Programers_Level1-32.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\obj\Debug\Programers_Level1-32.exe
+C:\WorkSpace\Programers_Level1\Programers_Level1-32\obj\Debug\Programers_Level1-32.pdb

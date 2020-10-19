@@ -11,8 +11,8 @@ namespace Programers_Level1_22
         static void Main(string[] args)
         {
             Console.WriteLine($"{solution(118372)}");
-            string[] strArray = n.ToString().Select(x => x.ToString()).ToArray();
-            Array.Sort(strArray, new MyCompare());
+            ////string[] strArray = n.ToString().Select(x => x.ToString()).ToArray();
+            //Array.Sort(strArray, new MyCompare());
         }
 
         public static long solution(long n)
