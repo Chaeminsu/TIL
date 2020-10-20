@@ -1,7 +1,0 @@
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\bin\Debug\Programers_Level1-17.exe.config
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\bin\Debug\Programers_Level1-17.exe
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\bin\Debug\Programers_Level1-17.pdb
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\obj\Debug\Programers_Level1-17.csproj.CoreCompileInputs.cache
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\obj\Debug\Programers_Level1-17.exe
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\obj\Debug\Programers_Level1-17.pdb
-C:\WorkSpace\Programers_Level1\Programers_Level1-17\obj\Debug\Programers_Level1-17.csprojAssemblyReference.cache
