@@ -46,19 +46,61 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestClass">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="Application.MostLowerNumDelete">
+    <configuration name="GetGCD_LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GetGCD_LCM" />
       <module name="JavaWorkspace" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TestClass" />
+    <configuration name="GetKnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GetKnumber" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GotyaTwoNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GotyaTwoNumberSum" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MostLowerNumDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MostLowerNumDelete" />
+      <module name="JavaWorkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PracticeTest" />
       <module name="JavaWorkspace" />
       <extension name="coverage">
         <pattern>
@@ -71,13 +113,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.GotyaTwoNumberSum" />
+      <item itemvalue="Application.PracticeTest" />
+      <item itemvalue="Application.GetKnumber" />
+      <item itemvalue="Application.GetGCD_LCM" />
+      <item itemvalue="Application.MostLowerNumDelete" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MostLowerNumDelete" />
+        <item itemvalue="Application.GetKnumber" />
+        <item itemvalue="Application.GetGCD_LCM" />
+        <item itemvalue="Application.PracticeTest" />
+        <item itemvalue="Application.GotyaTwoNumberSum" />
       </list>
     </recent_temporary>
   </component>
@@ -102,48 +150,65 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="262" key="GridCell.Tab.0.bottom" timestamp="1603020830160">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1603183932774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830160" />
-    <state width="1877" height="262" key="GridCell.Tab.0.center" timestamp="1603020830160">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603183932774" />
+    <state width="440" height="466" key="DebuggerActiveHint" timestamp="1603257420633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830160" />
-    <state width="1877" height="262" key="GridCell.Tab.0.left" timestamp="1603020830160">
+    <state width="440" height="466" key="DebuggerActiveHint/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257420633" />
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830160" />
-    <state width="1877" height="262" key="GridCell.Tab.0.right" timestamp="1603020830160">
+    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830160" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1603020830155">
+    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1603257519724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830155" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1603020830155">
+    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519724" />
+    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830155" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1603020830154">
+    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.1.bottom" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830154" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1603020830155">
+    <state width="1877" height="248" key="GridCell.Tab.1.bottom/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.1.center" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603020830155" />
-    <state x="526" y="249" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603018117185">
+    <state width="1877" height="248" key="GridCell.Tab.1.center/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.1.left" timestamp="1603257519725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="249" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603018117185" />
+    <state width="1877" height="248" key="GridCell.Tab.1.left/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="1877" height="248" key="GridCell.Tab.1.right" timestamp="1603257519725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="248" key="GridCell.Tab.1.right/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603257519725" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1603256771377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603256771377" />
+    <state x="526" y="249" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603180774258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="249" width="867" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603180774258" />
     <state x="339" y="130" key="new project wizard" timestamp="1603018728163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="130" key="new project wizard/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603018728163" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603180693709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1603180693709" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603018070890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -153,9 +218,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/com/company/MajorityNumberFind.java</url>
+          <line>28</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MostLowerNumDelete.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
