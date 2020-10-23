@@ -1,0 +1,26 @@
+char[] skillArray = skill.toCharArray();
+        Queue<String> q = new LinkedList<>();
+        Boolean[] Check = new Boolean[skill_trees.length];
+        Arrays.fill(Check, false);
+        for (int i = 0; i < skill_trees.length; i ++)
+            q.offer(skill_trees[i]);
+
+        int startNum = 0;
+
+        while(q.size() > 0)
+        {
+            String strOut = q.poll();
+            for (int i = startNum; i < skill_trees.length; i++)
+            {
+                int fristSkillIndex = strOut.indexOf(skillArray[startNum]);
+                int SecondSkillIndex = strOut.indexOf(skillArray[startNum + 1]);
+
+                if (SecondSkillIndex > fristSkillIndex) {
+                    q.offer(strOut);
+                    break;
+                }
+                else {
+                    break;
+                }
+            }
+        }
