@@ -21,7 +21,11 @@ public class SkillTree {
             ArrayList<Integer> _list = new ArrayList<>();
 
             for (int i = 0; i < skill.length(); i++)
-                _list.add(skillTrees.indexOf(processSkill[i]) == -1 ? 99 : skillTrees.indexOf(processSkill[i]));
+            {
+                int index = skillTrees.indexOf(processSkill[i]);
+                _list.add(index == -1 ? 99 : index);
+            }
+
 
             ArrayList<Integer> _sortList = (ArrayList<Integer>) _list.clone();
             _sortList.sort((x,y) -> x.compareTo(y));
@@ -35,8 +39,6 @@ public class SkillTree {
                 }
                 isOk = true;
             }
-
-
         }
         public Boolean LearedOK()
         {
