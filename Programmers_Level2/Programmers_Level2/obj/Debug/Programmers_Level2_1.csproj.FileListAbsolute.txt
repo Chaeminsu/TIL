@@ -1,0 +1,7 @@
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\obj\Debug\Programmers_Level2_1.csprojAssemblyReference.cache
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\obj\Debug\Programmers_Level2_1.csproj.CoreCompileInputs.cache
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\bin\Debug\Programmers_Level2.exe.config
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\bin\Debug\Programmers_Level2.exe
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\bin\Debug\Programmers_Level2.pdb
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\obj\Debug\Programmers_Level2.exe
+C:\Users\coals\source\repos\Programmers_Level2\Programmers_Level2\obj\Debug\Programmers_Level2.pdb
