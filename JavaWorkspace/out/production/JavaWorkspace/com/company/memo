@@ -1,26 +1,30 @@
-char[] skillArray = skill.toCharArray();
-        Queue<String> q = new LinkedList<>();
-        Boolean[] Check = new Boolean[skill_trees.length];
-        Arrays.fill(Check, false);
-        for (int i = 0; i < skill_trees.length; i ++)
-            q.offer(skill_trees[i]);
-
-        int startNum = 0;
-
-        while(q.size() > 0)
+ String answer = "";
+        HashMap<String, Integer> _hashMap = new HashMap<>();
+        List<String> tempArray = Arrays.stream(participant).distinct().collect(Collectors.toList());
+        int num = 0;
+        for (String Item : tempArray)
         {
-            String strOut = q.poll();
-            for (int i = startNum; i < skill_trees.length; i++)
+            for (int i = 0; i < participant.length; i++)
             {
-                int fristSkillIndex = strOut.indexOf(skillArray[startNum]);
-                int SecondSkillIndex = strOut.indexOf(skillArray[startNum + 1]);
-
-                if (SecondSkillIndex > fristSkillIndex) {
-                    q.offer(strOut);
-                    break;
-                }
-                else {
-                    break;
-                }
+                if (Item.compareTo(participant[i]) == 0)
+                    num++;
             }
+            _hashMap.put(Item, num);
+            num = 0;
         }
+
+         for (String Value : _hashMap.keySet())
+                {
+                    for (int i = 0; i < completion.length; i++)
+                    {
+                       if (Value.compareTo(completion[i]) == 0)
+                           _hashMap.replace(Value, _hashMap.get(Value) -1);
+                    }
+                    if (_hashMap.get(Value) >= 1)
+                    {
+                        answer = Value;
+                        break;
+                    }
+                }
+
+        return answer;

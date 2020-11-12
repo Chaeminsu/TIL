@@ -6,17 +6,30 @@ using UnityEngine;
 public class InputManger
 {
     public Action keyAction = null;
-   
+    public Action<Define.MouseEvent> MouseAction = null;
+    public bool _pressed = false;
     public void OnUpdate()
     {
-        if (Input.anyKey == false)
+        if (Input.anyKey && keyAction != null)
+            keyAction.Invoke();
+
+        if (MouseAction != null)
         {
-            return;
+            if (Input.GetMouseButton(0))
+            {
+                MouseAction.Invoke(Define.MouseEvent.Press);
+                _pressed = true;
+            }
+            else
+            {
+                if (_pressed)
+                    MouseAction.Invoke(Define.MouseEvent.Click);
+
+                _pressed = false;
+            }
         }
 
-        if (keyAction != null)
-        {
-            keyAction.Invoke();
-        }
+
+
     }
 }
