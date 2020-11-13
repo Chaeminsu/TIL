@@ -1,8 +1,7 @@
 package com.company;
-
-import java.lang.reflect.Array;
 import java.util.*;
 import java.util.logging.Logger;
+import java.util.stream.Collectors;
 
 public class NoFinshMan {
 
@@ -16,8 +15,6 @@ public class NoFinshMan {
     public static String solution(String[] participant, String[] completion) {
         String answer = "";
         Map<String, Integer> _hashMap = new HashMap<>();
-
-
         for (String person: participant)
         {
             if (_hashMap.get(person) == null)
@@ -28,8 +25,6 @@ public class NoFinshMan {
         }
         for (String com_person: completion)
             _hashMap.put(com_person, _hashMap.get(com_person) - 1);
-
-
 
         for (String Value : _hashMap.keySet())
         {

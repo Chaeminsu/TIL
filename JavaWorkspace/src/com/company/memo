@@ -28,3 +28,29 @@
                 }
 
         return answer;
+
+
+
+         String answer = "";
+                Map<String, Integer> _hashMap = new HashMap<>();
+                for (String person: participant)
+                {
+                    if (_hashMap.get(person) == null)
+                        _hashMap.put(person, 1);
+                    else
+                        _hashMap.put(person, _hashMap.get(person) + 1);
+
+                }
+                for (String com_person: completion)
+                    _hashMap.put(com_person, _hashMap.get(com_person) - 1);
+
+                for (String Value : _hashMap.keySet())
+                {
+                    if (_hashMap.get(Value) >= 1)
+                    {
+                        answer = Value;
+                        break;
+                    }
+                }
+
+                return answer;
