@@ -17,26 +17,25 @@ public class PhoneNumberBookList {
     public static boolean solution(String[] phone_book) {
         boolean answer = true;
 
-        HashMap<String, List<String>> _hashmap = new HashMap<>();
-        ArrayList<String> _list;
+        HashMap<String, String[]> _hashmap = new HashMap<>();
 
         for (int i = 0; i < phone_book.length; i++)
-        {
-            _list = new ArrayList<>(Arrays.asList(phone_book));
-            _list.remove(i);
-            _hashmap.put(phone_book[i], _list);
-        }
+            _hashmap.put(phone_book[i], phone_book);
 
         for (String _key: _hashmap.keySet())
         {
             for (String value :_hashmap.get(_key))
             {
-                if (_key.length() > value.length()) continue;
-                if (value.indexOf(_key) == 0)
-                {
-                    answer = false;
-                    break;
+                if (_key.length() >= value.length() ) {
+                    continue;
                 }
+                else
+                {
+                    if (value.indexOf(_key) == 0)
+                        return false;
+                }
+
+
             }
             if(answer == false) break;
         }

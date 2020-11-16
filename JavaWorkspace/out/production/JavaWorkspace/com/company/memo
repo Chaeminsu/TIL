@@ -1,56 +1,46 @@
- String answer = "";
-        HashMap<String, Integer> _hashMap = new HashMap<>();
-        List<String> tempArray = Arrays.stream(participant).distinct().collect(Collectors.toList());
-        int num = 0;
-        for (String Item : tempArray)
+package com.company;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.logging.Logger;
+
+public class PhoneNumberBookList {
+
+    static String[] phone_book = {"12","123","1235","567","88"};
+    private final static Logger LOG = Logger.getGlobal();
+
+    public static void main(String[] args) {
+        System.out.println(solution(phone_book));
+    }
+    public static boolean solution(String[] phone_book) {
+        boolean answer = true;
+
+        HashMap<String, List<String>> _hashmap = new HashMap<>();
+        ArrayList<String> _list;
+
+        for (int i = 0; i < phone_book.length; i++)
         {
-            for (int i = 0; i < participant.length; i++)
-            {
-                if (Item.compareTo(participant[i]) == 0)
-                    num++;
-            }
-            _hashMap.put(Item, num);
-            num = 0;
+            _list = new ArrayList<>(Arrays.asList(phone_book));
+            _list.remove(i);
+            _hashmap.put(phone_book[i], _list);
         }
 
-         for (String Value : _hashMap.keySet())
+        for (String _key: _hashmap.keySet())
+        {
+            for (String value :_hashmap.get(_key))
+            {
+                if (_key.length() > value.length()) continue;
+                if (value.indexOf(_key) == 0)
                 {
-                    for (int i = 0; i < completion.length; i++)
-                    {
-                       if (Value.compareTo(completion[i]) == 0)
-                           _hashMap.replace(Value, _hashMap.get(Value) -1);
-                    }
-                    if (_hashMap.get(Value) >= 1)
-                    {
-                        answer = Value;
-                        break;
-                    }
+                    answer = false;
+                    break;
                 }
+            }
+            if(answer == false) break;
+        }
 
         return answer;
-
-
-
-         String answer = "";
-                Map<String, Integer> _hashMap = new HashMap<>();
-                for (String person: participant)
-                {
-                    if (_hashMap.get(person) == null)
-                        _hashMap.put(person, 1);
-                    else
-                        _hashMap.put(person, _hashMap.get(person) + 1);
-
-                }
-                for (String com_person: completion)
-                    _hashMap.put(com_person, _hashMap.get(com_person) - 1);
-
-                for (String Value : _hashMap.keySet())
-                {
-                    if (_hashMap.get(Value) >= 1)
-                    {
-                        answer = Value;
-                        break;
-                    }
-                }
-
-                return answer;
+    }
+}

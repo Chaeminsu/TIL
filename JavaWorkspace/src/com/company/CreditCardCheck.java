@@ -9,11 +9,9 @@ public class CreditCardCheck {
     static String[] card_numbers = {"3285-3764-9934-2453", "3285376499342453", "3285-3764-99342453", "328537649934245", "3285376499342459", "3285-3764-9934-2452"};
     private final static Logger LOG = Logger.getGlobal();
     public static void main(String[] args) {
-
         for (int item: solution(card_numbers)) {
             System.out.println(item);
         }
-
     }
 
     public static int[] solution(String[] card_numbers) {
