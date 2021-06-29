@@ -56,6 +56,7 @@ public class PlayerController : MonoBehaviour
 
 
     }
+
     void UpdateIdle()
     {
         Animator anim = GetComponent<Animator>();
